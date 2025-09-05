@@ -1,0 +1,5 @@
+FACEBOOK_EMAIL = "your_email@example.com"
+FACEBOOK_PASSWORD = "your_facebook_password"
+
+TELEGRAM_BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+TELEGRAM_CHAT_ID = "123456789"
